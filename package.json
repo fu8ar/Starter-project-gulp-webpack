@@ -1,23 +1,17 @@
 {
-  "name": "beingonline-starter-project",
+  "name": "starter-gult-webpack-project",
   "version": "1.0.0",
-  "description": "start project",
-  "main": "index.html",
-  "scripts": {
-    "start": "gulp",
-    "build": "gulp webpack:build-dev"
-  },
-  "keywords": [
-    "startproject",
-    "sass",
-    "bootstrap",
-    "browsersyn"
-  ],
+  "description": "Starter project using Gulp, Webpack, ES6 with Babel, Twitter Boostrap 3 and SASS",
   "author": "Paul Matchett",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fu8ar/starter-project.git"
+    "url": "https://github.com/fu8ar/Starter-project-gulp-webpack.git"
+  },
+  "main": "es6/main.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp webpack:build-dev"
   },
   "dependencies": {
     "bootstrap-loader": "^2.0.0-beta.11",
