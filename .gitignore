@@ -33,6 +33,8 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
+dist/siteFiles/js/*
+dist/siteFiles/js/vendor/
 
 # Optional npm cache directory
 .npm
