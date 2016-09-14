@@ -33,8 +33,12 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
+dist/*.html
 dist/siteFiles/js/*
 dist/siteFiles/js/vendor/
+
+# Visual Code
+.vscode
 
 # Optional npm cache directory
 .npm

@@ -3,6 +3,6 @@ require('../sass/app.scss');
 
 (function ($) {
 
-    //$("h2").text("Changed Back");
+    $("h2").text("Title updated in file 'es6/main.js'");
 
 })(jQuery);
